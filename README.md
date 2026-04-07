@@ -148,14 +148,6 @@ CSV HEADER;
 
 ---
 
-## 🚀 Future Improvements
-
-* Add data visualization (Power BI / Tableau)
-* Convert into dashboard project
-* Add more advanced SQL queries
-
----
-
 ## 👨‍💻 Author
 
 **Niraj Nishar**
